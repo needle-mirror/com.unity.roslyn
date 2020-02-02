@@ -1,21 +1,21 @@
 {
   "name": "com.unity.roslyn",
   "displayName": "Roslyn Compiler for Unity",
-  "version": "0.0.3-preview",
-  "unity": "2020.1",
-  "unityRelease": "13f1",
-  "description": "Version of Roslyn compiler distributed as package.\n\nEnables use of Roslyn source generators for code generation.\n\nThis package is currently in preview, and is compatible with Unity 2020.1 and newer.",
+  "version": "0.1.1-preview",
+  "unity": "2020.2",
+  "unityRelease": "2f1",
+  "description": "Version of Roslyn compiler distributed as package.\n\nEnables use of Roslyn source generators for code generation.\n\nThis package is currently in preview, and is compatible with Unity 2020.2 and newer.",
   "keywords": [
     "codegen",
     "unity",
     "roslyn"
   ],
   "upmCi": {
-    "footprint": "730fb56444f27378fd3c2bfe3efc68e4615cb9aa"
+    "footprint": "2729386b66ba2c952cf942d44de943a7e08236ca"
   },
   "repository": {
-    "url": "https://github.com/Unity-Technologies/Unity.Roslyn.git",
+    "url": "https://github.cds.internal.unity3d.com/unity/Unity.Roslyn.git",
     "type": "git",
-    "revision": "4777ccb1a6899f9367f2d2dc7eb9947230c51470"
+    "revision": "8666ad33a6d0e3e2e244ecd7a1bef787e95ab246"
   }
 }
