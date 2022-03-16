@@ -1,0 +1,14 @@
+{
+    "name": "Unity.Roslyn.EditorTests",
+    "references": [
+        "Unity.Roslyn.Editor",
+        "Unity.Roslyn"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
