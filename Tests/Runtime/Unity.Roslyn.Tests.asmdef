@@ -1,7 +1,6 @@
 {
-    "name": "Unity.[SubGroup].[YourPackageName].Tests",
+    "name": "Unity.Roslyn.Tests",
     "references": [
-        "Unity.[SubGroup].[YourPackageName]"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"

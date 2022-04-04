@@ -5,7 +5,8 @@ PluginImporter:
   serializedVersion: 2
   iconMap: {}
   executionOrder: {}
-  defineConstraints: []
+  defineConstraints:
+  - '!UNITY_2021_1_OR_NEWER'
   isPreloaded: 0
   isOverridable: 1
   isExplicitlyReferenced: 0
@@ -66,4 +67,4 @@ PluginImporter:
         CPU: AnyCPU
   userData: 
   assetBundleName: 
-  assetBundleVariant: 
+  assetBundleVariant:
